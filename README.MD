@@ -1,6 +1,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=benjamin-gambling&show_icons=true&hide_title=true" />
 
-
+----------
 
 > NODE.JS / EXPRESS.JS
 <a href="https://github.com/benjamin-gambling/tetris">
@@ -13,7 +13,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benjamin-gambling&repo=rock-paper-scissors" />
 </a>
 
-
+-----------
 
 > REACT.JS
 <a href="https://github.com/benjamin-gambling/tetris">
@@ -27,7 +27,7 @@
 </a>
 
 
-
+-------------
 
 > JAVASCRIPT (ES6+)
 <a href="https://github.com/benjamin-gambling/tetris">
@@ -41,7 +41,7 @@
 </a>
 
 
-
+-----------
 
 
 > HTML5 / CSS3
