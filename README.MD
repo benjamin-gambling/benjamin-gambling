@@ -2,10 +2,11 @@
 
 
 ### Benjamin Gambling 
+> Whistler, BC
 
 > Full-Stack Web Developer
 
-> 🔗 http://benjamin-gambling.github.io/
+> 🔗  http://benjamin-gambling.github.io/
 
 
 
