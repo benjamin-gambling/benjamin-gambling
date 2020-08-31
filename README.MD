@@ -1,4 +1,8 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=benjamin-gambling&show_icons=true&hide_title=true" />
 
-
+##### Benjamin Gambling 
+> Full-Stack Web Developer
+> Whistler, BC 
+> benjamin.gambling@gmail.com 
+> https://benjamin-gambling.github.io/
 
