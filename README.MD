@@ -4,8 +4,7 @@
 
 > NODE.JS / EXPRESS.JS
 <a href="https://github.com/benjamin-gambling/inventory-application">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benjamin-gambling&repo=inventory-application
-" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benjamin-gambling&repo=inventory-application" />
 </a>
 <a href="https://github.com/benjamin-gambling/local-library">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benjamin-gambling&repo=local-library" />
@@ -93,9 +92,6 @@
 <a href="https://github.com/benjamin-gambling/google-homepage">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benjamin-gambling&repo=google-homepage" />
 </a>
-<a href="https://github.com/benjamin-gambling/portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benjamin-gambling&repo=portfolio" />
-</a>
 <a href="https://github.com/benjamin-gambling/survey-form">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benjamin-gambling&repo=survey-form" />
 </a>
@@ -107,4 +103,7 @@
 </a>
 <a href="https://github.com/benjamin-gambling/product-landing-page">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benjamin-gambling&repo=product-landing-page" />
+</a>
+<a href="https://github.com/benjamin-gambling/portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benjamin-gambling&repo=portfolio" />
 </a>
