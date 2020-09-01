@@ -3,48 +3,96 @@
 ----------
 
 > NODE.JS / EXPRESS.JS
-<a href="https://github.com/benjamin-gambling/tetris">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benjamin-gambling&repo=tetris" />
+<a href="https://github.com/benjamin-gambling/inventory-application">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benjamin-gambling&repo=inventory-application
+" />
 </a>
-<a href="https://github.com/benjamin-gambling/calculator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benjamin-gambling&repo=calculator" />
+<a href="https://github.com/benjamin-gambling/local-library">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benjamin-gambling&repo=local-library" />
 </a>
-<a href="https://github.com/benjamin-gambling/rock-paper-scissors">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benjamin-gambling&repo=rock-paper-scissors" />
+<a href="https://github.com/benjamin-gambling/mini-message-board">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benjamin-gambling&repo=mini-message-board" />
 </a>
+<a href="https://github.com/benjamin-gambling/basic-info-site">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benjamin-gambling&repo=basic-info-site" />
+</a>
+
 
 -----------
 
 > REACT.JS
-<a href="https://github.com/benjamin-gambling/tetris">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benjamin-gambling&repo=tetris" />
+<a href="https://github.com/benjamin-gambling/weather-todo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benjamin-gambling&repo=weather-todo" />
 </a>
-<a href="https://github.com/benjamin-gambling/calculator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benjamin-gambling&repo=calculator" />
+<a href="https://github.com/benjamin-gambling/markdown-previewer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benjamin-gambling&repo=markdown-previewer" />
 </a>
-<a href="https://github.com/benjamin-gambling/rock-paper-scissors">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benjamin-gambling&repo=rock-paper-scissors" />
+<a href="https://github.com/benjamin-gambling/random-quote-machine">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benjamin-gambling&repo=random-quote-machine" />
+</a>
+<a href="https://github.com/benjamin-gambling/pomodoro-clock">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benjamin-gambling&repo=pomodoro-clock" />
 </a>
 
 
 -------------
 
 > JAVASCRIPT (ES6+)
+<a href="https://github.com/benjamin-gambling/tic-tac-toe">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benjamin-gambling&repo=tic-tac-toe" />
+</a>
+<a href="https://github.com/benjamin-gambling/library">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benjamin-gambling&repo=library" />
+</a>
+<a href="https://github.com/benjamin-gambling/restaurant">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benjamin-gambling&repo=restaurant" />
+</a>
 <a href="https://github.com/benjamin-gambling/tetris">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benjamin-gambling&repo=tetris" />
 </a>
 <a href="https://github.com/benjamin-gambling/calculator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benjamin-gambling&repo=calculator" />
 </a>
+<a href="https://github.com/benjamin-gambling/etch-a-sketch">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benjamin-gambling&repo=etch-a-sketch" />
+</a>
+<a href="https://github.com/benjamin-gambling/chit-chat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benjamin-gambling&repo=chit-chat" />
+</a>
+<a href="https://github.com/benjamin-gambling/gif-me-up">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benjamin-gambling&repo=gif-me-up" />
+</a>
 <a href="https://github.com/benjamin-gambling/rock-paper-scissors">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benjamin-gambling&repo=rock-paper-scissors" />
 </a>
+<a href="https://github.com/benjamin-gambling/image-carousel">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benjamin-gambling&repo=image-carousel" />
+</a>
+<a href="https://github.com/benjamin-gambling/responsive-portfolio-navbar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benjamin-gambling&repo=responsive-portfolio-navbar" />
+</a>
+
 
 
 -----------
 
 
+> SQL
+
+<a href="https://github.com/benjamin-gambling/sql-zoo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benjamin-gambling&repo=sql-zoo" />
+</a>
+
+-----------
+
+
 > HTML5 / CSS3
+<a href="https://github.com/benjamin-gambling/drum-kit">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benjamin-gambling&repo=drum-kit" />
+</a>
+<a href="https://github.com/benjamin-gambling/google-homepage">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benjamin-gambling&repo=google-homepage" />
+</a>
 <a href="https://github.com/benjamin-gambling/portfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benjamin-gambling&repo=portfolio" />
 </a>
