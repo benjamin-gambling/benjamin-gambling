@@ -33,7 +33,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benjamin-gambling&repo=pomodoro-clock" />
 </a>
 
+-------------
 
+> TYPESCRIPT
+<a href="https://github.com/benjamin-gambling/pokedex">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=benjamin-gambling&repo=pokedex"/>
+</a>
+            
 -------------
 
 > JAVASCRIPT (ES6+)
