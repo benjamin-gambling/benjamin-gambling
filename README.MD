@@ -3,6 +3,9 @@
 ----------
 
 > NODE.JS / EXPRESS.JS
+<a href="https://github.com/benjamin-gambling/graphql-api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benjamin-gambling&repo=graphql-api" />
+</a>
 <a href="https://github.com/benjamin-gambling/inventory-application">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benjamin-gambling&repo=inventory-application" />
 </a>
