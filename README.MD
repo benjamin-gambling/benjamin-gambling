@@ -1,5 +1,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=benjamin-gambling&show_icons=true&hide_title=true" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benjamin-gambling)](https://github.com/anuraghazra/github-readme-stats)
+
 ----------
 
 > NODE.JS / EXPRESS.JS
