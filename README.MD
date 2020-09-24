@@ -5,7 +5,7 @@
 ----------
 
 > NODE.JS / EXPRESS.JS
-<a href="https://github.com/benjamin-gambling/hackernewsi">
+<a href="https://github.com/benjamin-gambling/hackernews">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benjamin-gambling&repo=hackernews" />
 </a>
 <a href="https://github.com/benjamin-gambling/graphql-api">
