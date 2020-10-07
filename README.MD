@@ -90,8 +90,8 @@
 <a href="https://github.com/benjamin-gambling/responsive-portfolio-navbar">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benjamin-gambling&repo=responsive-portfolio-navbar" />
 </a>
-<a href="https://github.com/benjamin-gambling/benjamin-gambling.github.ior">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benjamin-gambling&repo=benjamin-gambling.github.ior" />
+<a href="https://github.com/benjamin-gambling/benjamin-gambling.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benjamin-gambling&repo=benjamin-gambling.github.io" />
 </a>
 
 
