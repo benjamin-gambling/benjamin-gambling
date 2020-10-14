@@ -17,6 +17,9 @@
 <a href="https://github.com/benjamin-gambling/graphql-api">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benjamin-gambling&repo=graphql-api" />
 </a>
+<a href="https://github.com/benjamin-gambling/authentication">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benjamin-gambling&repo=authentication" />
+</a>
 <a href="https://github.com/benjamin-gambling/inventory-application">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benjamin-gambling&repo=inventory-application" />
 </a>
@@ -29,7 +32,6 @@
 <a href="https://github.com/benjamin-gambling/basic-info-site">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benjamin-gambling&repo=basic-info-site" />
 </a>
-
 
 -----------
 
