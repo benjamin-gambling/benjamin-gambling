@@ -4,10 +4,12 @@
 
 ----------
 
-> PYTHION
+> PYTHON
 <a href="https://github.com/benjamin-gambling/profile-api">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benjamin-gambling&repo=profile-api" />
 </a>
+
+----------
 
 > NODE.JS
 <a href="https://github.com/benjamin-gambling/bloggy-api">
@@ -28,6 +30,17 @@
 <a href="https://github.com/benjamin-gambling/members-only">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benjamin-gambling&repo=members-only" />
 </a>
+<a href="https://github.com/benjamin-gambling/graphql-api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benjamin-gambling&repo=graphql-api" />
+</a>
+<a href="https://github.com/benjamin-gambling/mini-message-board">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benjamin-gambling&repo=mini-message-board" />
+</a>
+<a href="https://github.com/benjamin-gambling/basic-info-site">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benjamin-gambling&repo=basic-info-site" />
+</a>
+
+-----------
 
 > MERN 
 <a href="https://github.com/benjamin-gambling/apollo-travel">
@@ -35,17 +48,6 @@
 </a>
 <a href="https://github.com/benjamin-gambling/github-lookup">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benjamin-gambling&repo=github-lookup" />
-</a>
-<a href="https://github.com/benjamin-gambling/graphql-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benjamin-gambling&repo=graphql-api" />
-</a>
-
-
-<a href="https://github.com/benjamin-gambling/mini-message-board">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benjamin-gambling&repo=mini-message-board" />
-</a>
-<a href="https://github.com/benjamin-gambling/basic-info-site">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benjamin-gambling&repo=basic-info-site" />
 </a>
 
 -----------
