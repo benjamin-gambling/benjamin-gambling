@@ -56,9 +56,6 @@
 <a href="https://github.com/benjamin-gambling/bloggy-web">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benjamin-gambling&repo=bloggy-web" />
 </a>
-<a href="https://github.com/benjamin-gambling/apollo-travel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benjamin-gambling&repo=apollo-travel" />
-</a>
 <a href="https://github.com/benjamin-gambling/weather-todo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benjamin-gambling&repo=weather-todo" />
 </a>
